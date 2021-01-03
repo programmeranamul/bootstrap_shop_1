@@ -1,0 +1,41 @@
+/* Nav bar Here */
+.card-shop {
+	padding: 3px 8px;
+	background: royalblue;
+	border-radius: 8px;
+	font-size: .7em;
+	margin-left: 3px;
+}
+.navbar {
+
+    box-shadow: 0px 1px 10px #eaeaea;
+    background-color: transparent;
+    transition: background-color 1s ease  ;
+}
+.solid {
+    transition: background-color 1s ease  ;
+}
+
+.nav-text{
+    color: rgba(255, 255, 255, .5);
+}
+/* Project here */
+.project-text{
+    background-color: #f8f9fa  !important;
+}
+#footer-top a{
+    color: #ccc;
+}
+.gold-star{
+    color: gold;
+}
+.black-star{
+    color: #ccc;
+}
+html{
+    scroll-behavior: smooth;
+}
+.modal-footer {
+	
+	justify-content: center;
+}
